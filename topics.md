@@ -13,6 +13,9 @@
 ### backtest
 * 案例：有人說華爾街無新鮮事，又有人說歷史的數據不能代表未來的數據？
 
+### copy trading
+* 案例：在你不賺錢的時候，無法判斷誰才是賺錢的交易員，而在你可以判斷的時候，你已經不需要跟單，怎麼取捨？
+
 ---
 
 - strategy
@@ -20,6 +23,5 @@
 - ROI / APY
 - infrastructure for automated trading
 - fee / funding rate
-- copy trading
 - funded program
 
