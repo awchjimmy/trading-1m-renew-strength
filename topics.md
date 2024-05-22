@@ -17,12 +17,16 @@
 * 案例：在你不賺錢的時候，無法判斷誰才是賺錢的交易員，而在你可以判斷的時候，你已經不需要跟單，怎麼取捨？
 * 案例：高勝率代表沒有風險嗎？
 
+### fee / funding rate
+* 案例：每次市場都跟你反方向走，那麼該做多的時候反手做空，不就賺錢了嗎？
+* 案例：為什麼有時候贏了還賠錢？
+
 ---
 
 - strategy
 - mindset
 - ROI / APY
 - infrastructure for automated trading
-- fee / funding rate
+
 - funded program
 
