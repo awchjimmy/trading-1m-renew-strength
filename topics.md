@@ -10,8 +10,10 @@
 ### leverage
 * 案例：買房子5倍槓桿，合約交易市場100倍槓桿，買房子比合約交易安全嗎？
 
----
+### backtest
+* 案例：有人說華爾街無新鮮事，又有人說歷史的數據不能代表未來的數據？
 
+---
 
 - strategy
 - mindset
@@ -20,3 +22,4 @@
 - fee / funding rate
 - copy trading
 - funded program
+
