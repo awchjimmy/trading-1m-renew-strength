@@ -21,10 +21,13 @@
 * 案例：每次市場都跟你反方向走，那麼該做多的時候反手做空，不就賺錢了嗎？
 * 案例：為什麼有時候贏了還賠錢？
 
+### mindset
+* 案例：價格已經很高了，還可以買嗎？
+
 ---
 
 - strategy
-- mindset
+
 - ROI / APY
 - infrastructure for automated trading
 
