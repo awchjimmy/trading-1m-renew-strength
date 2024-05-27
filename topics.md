@@ -7,8 +7,7 @@
 ### position management
 * 案例：如果每個月的利息都是10%，並且可以複利計算，一年之後本金翻了幾倍？
 
-### leverage
-* 案例：買房子5倍槓桿，合約交易市場100倍槓桿，買房子比合約交易安全嗎？
+
 
 ### backtest
 * 案例：有人說華爾街無新鮮事，又有人說歷史的數據不能代表未來的數據？
@@ -27,7 +26,7 @@
 ---
 
 - strategy
-
+- leverage
 - ROI / APY
 - infrastructure for automated trading
 
