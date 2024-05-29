@@ -18,3 +18,9 @@ Become a master trader and trade on public exchange (alpha)
 預估年化收益：158%
 最後更新日期：2024/05/29
 ```
+
+### 營運成本
+|#|Name|Cost|
+|----|----|----|
+|1|TradingView - Essential Plan|$14.99|
+|2|Linode VPS - Nano|$5|
