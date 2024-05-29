@@ -18,7 +18,7 @@ Become a master trader and trade on public exchange (alpha)
 預估年化收益：158%
 最後更新日期：2024/05/29
 ```
-[最新更新績效](https://docs.google.com/spreadsheets/d/1-eOnb8Xh_RWWzwRVEhaiVXZTP-C3jyrj4s_SPub9SVc/edit?usp=sharing)
+[最新績效](https://docs.google.com/spreadsheets/d/1-eOnb8Xh_RWWzwRVEhaiVXZTP-C3jyrj4s_SPub9SVc/edit?usp=sharing)
 
 ### 營運成本
 |#|Name|Cost|
@@ -27,4 +27,4 @@ Become a master trader and trade on public exchange (alpha)
 |2|Linode VPS - Nano|$5|
 
 ### 歷史成交紀錄
-[歷史成交紀錄](https://docs.google.com/spreadsheets/d/1-eOnb8Xh_RWWzwRVEhaiVXZTP-C3jyrj4s_SPub9SVc/edit?usp=sharing)
+[最新成交紀錄](https://docs.google.com/spreadsheets/d/1-eOnb8Xh_RWWzwRVEhaiVXZTP-C3jyrj4s_SPub9SVc/edit?usp=sharing)
