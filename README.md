@@ -10,11 +10,11 @@ Become a master trader and trade on public exchange (alpha)
 ### 績效
 ```
 本金：$850
-總收益：$21.54
-經過天數：6
+總收益：$25.82
+經過天數：7
 
-預估年化收益：154%
-最後更新日期：2024/05/30
+預估年化收益：158%
+最後更新日期：2024/05/31
 ```
 [最新績效](https://docs.google.com/spreadsheets/d/1-eOnb8Xh_RWWzwRVEhaiVXZTP-C3jyrj4s_SPub9SVc/edit?usp=sharing)
 
