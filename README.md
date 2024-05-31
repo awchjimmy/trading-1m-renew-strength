@@ -1,13 +1,13 @@
 # trading-business
 Become a master trader and trade on public exchange (alpha)
 
-### 收支簿
+### 收支簿 Philosophy
 量入為出，積少成多
 
-### 策略介紹
+### 策略介紹 Strategy
 短線剝頭皮策略，在超賣的時候買進，超買的時候賣出，平均持單時間約為一小時
 
-### 績效
+### 績效 Performance
 ```
 本金：$850
 總收益：$25.82
@@ -18,14 +18,17 @@ Become a master trader and trade on public exchange (alpha)
 ```
 [最新績效](https://docs.google.com/spreadsheets/d/1-eOnb8Xh_RWWzwRVEhaiVXZTP-C3jyrj4s_SPub9SVc/edit?usp=sharing)
 
-### 營運成本
+### 營運成本 Expenses
 |#|Name|Cost|
 |----|----|----|
 |1|TradingView - Essential Plan|$14.99|
 |2|Linode VPS - Nano|$5|
 
-### 歷史成交紀錄
+### 歷史成交紀錄 Trade History
 [最新成交紀錄](https://docs.google.com/spreadsheets/d/1-eOnb8Xh_RWWzwRVEhaiVXZTP-C3jyrj4s_SPub9SVc/edit?usp=sharing)
 
-### 倉位管理
+### 倉位管理 Position Management
 [倉位管理](https://docs.google.com/spreadsheets/d/1x5ktN38_n81ZLtaP6qf01Ea2OUhCsEd_30t8ivblllE/edit?usp=sharing)
+
+### 風險管理 Risk Management
+Risk 1% per trade
