@@ -26,3 +26,6 @@ Become a master trader and trade on public exchange (alpha)
 
 ### 歷史成交紀錄
 [最新成交紀錄](https://docs.google.com/spreadsheets/d/1-eOnb8Xh_RWWzwRVEhaiVXZTP-C3jyrj4s_SPub9SVc/edit?usp=sharing)
+
+### 倉位管理
+[倉位管理](https://docs.google.com/spreadsheets/d/1x5ktN38_n81ZLtaP6qf01Ea2OUhCsEd_30t8ivblllE/edit?usp=sharing)
