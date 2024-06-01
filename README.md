@@ -9,12 +9,12 @@ This is a short term scalping strategy. Enter long when oversold and exit long w
 
 ### Performance
 ```
-本金：$850
-總收益：$25.82
-經過天數：7
+Initial Funds: $850
+PnL: $25.82
+Running Time: 8 Days
 
-預估年化收益：158%
-最後更新日期：2024/05/31
+Estimated APY: 138%
+Last Updated: 2024/06/01
 ```
 [最新績效](https://docs.google.com/spreadsheets/d/1-eOnb8Xh_RWWzwRVEhaiVXZTP-C3jyrj4s_SPub9SVc/edit?usp=sharing)
 
