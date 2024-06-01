@@ -25,7 +25,8 @@ Become a master trader and trade on public exchange (alpha)
 |2|Linode VPS - Nano|$5|
 
 ### 歷史成交紀錄 Trade History
-[最新成交紀錄](https://docs.google.com/spreadsheets/d/1-eOnb8Xh_RWWzwRVEhaiVXZTP-C3jyrj4s_SPub9SVc/edit?usp=sharing)
+- [最新成交紀錄](https://docs.google.com/spreadsheets/d/1-eOnb8Xh_RWWzwRVEhaiVXZTP-C3jyrj4s_SPub9SVc/edit?usp=sharing)
+- [2024.05](https://docs.google.com/spreadsheets/d/1toyMmuyC_YtagT3oWx_Rv0tGJx9nWzqYFJFua2w-n1Q/edit?usp=sharing)
 
 ### 倉位管理 Position Management
 [倉位管理](https://docs.google.com/spreadsheets/d/1x5ktN38_n81ZLtaP6qf01Ea2OUhCsEd_30t8ivblllE/edit?usp=sharing)
