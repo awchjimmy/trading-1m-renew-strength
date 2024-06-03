@@ -24,7 +24,7 @@ Last Updated: 2024/06/03
 |1|TradingView - Essential Plan|$14.99|
 |2|Linode VPS - Nano|$5|
 
-### Trade History
+### Order History
 - [最新成交紀錄](https://docs.google.com/spreadsheets/d/1-eOnb8Xh_RWWzwRVEhaiVXZTP-C3jyrj4s_SPub9SVc/edit?usp=sharing)
 - [2024.05](https://docs.google.com/spreadsheets/d/1toyMmuyC_YtagT3oWx_Rv0tGJx9nWzqYFJFua2w-n1Q/edit?usp=sharing)
 
