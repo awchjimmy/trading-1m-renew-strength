@@ -10,11 +10,11 @@ This is a short term scalping strategy. Enter long when oversold and exit long w
 ### Performance
 ```
 Initial Funds: $850
-PnL: $26.40
-Running Time: 10 Days
+PnL: $28.22
+Running Time: 12 Days
 
-Estimated APY: 113%
-Last Updated: 2024/06/03
+Estimated APY: 101%
+Last Updated: 2024/06/05
 ```
 [最新績效](https://docs.google.com/spreadsheets/d/1-eOnb8Xh_RWWzwRVEhaiVXZTP-C3jyrj4s_SPub9SVc/edit?usp=sharing)
 
