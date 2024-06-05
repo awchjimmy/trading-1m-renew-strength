@@ -32,7 +32,7 @@ Last Updated: 2024/06/05
 Fixed 0.01 BTC per trade
 
 ### Risk Management
-Risk 1% per trade
+Fixed 1% ≈ $10 per trade
 
 ### Roadmap
 * [x] 2024.05 - Project launched
