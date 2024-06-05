@@ -33,3 +33,9 @@ Last Updated: 2024/06/05
 
 ### Risk Management
 Risk 1% per trade
+
+### Roadmap
+* [x] 2024.05 - Project launched
+* [x] 2024.06 - Internal test on Bybit with personal account
+* [ ] 2024.07 - Internal test on Bybit as a Master Trader
+* [ ] 2024.08 - Release to public on Bybit as a Master Trader 
