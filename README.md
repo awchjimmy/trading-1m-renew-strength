@@ -29,7 +29,7 @@ Last Updated: 2024/06/05
 - [2024.05](https://docs.google.com/spreadsheets/d/1toyMmuyC_YtagT3oWx_Rv0tGJx9nWzqYFJFua2w-n1Q/edit?usp=sharing)
 
 ### Position Management
-[倉位管理](https://docs.google.com/spreadsheets/d/1x5ktN38_n81ZLtaP6qf01Ea2OUhCsEd_30t8ivblllE/edit?usp=sharing)
+Fixed 0.01 BTC per trade
 
 ### Risk Management
 Risk 1% per trade
