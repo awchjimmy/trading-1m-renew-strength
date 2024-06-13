@@ -10,11 +10,11 @@ This is a short term scalping strategy. Enter long when oversold and exit long w
 ### Performance
 ```
 Initial Funds: $1000
-PnL: $35.55
-Running Time: 14 Days
+PnL: $41.77
+Running Time: 20 Days
 
-Estimated APR: 92%
-Last Updated: 2024/06/07
+Estimated APR: 76%
+Last Updated: 2024/06/13
 ```
 [最新績效](https://docs.google.com/spreadsheets/d/1-eOnb8Xh_RWWzwRVEhaiVXZTP-C3jyrj4s_SPub9SVc/edit?usp=sharing)
 
@@ -36,6 +36,6 @@ Fixed 1% ≈ $10 per trade
 
 ### Roadmap
 * [x] 2024.05 - Project launched
-* [x] 2024.06 - Internal test on Bybit with personal account
+* [x] 2024.06 - Internal test on Bybit with personal account - Ongoing
 * [ ] 2024.07 - Internal test on Bybit as a Master Trader
 * [ ] 2024.08 - Release to public on Bybit as a Master Trader 
