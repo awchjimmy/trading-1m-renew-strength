@@ -10,11 +10,11 @@ This is a short term scalping strategy. Enter long when oversold and exit long w
 ### Performance
 ```
 Initial Funds: $1000
-PnL: $41.77
-Running Time: 20 Days
+PnL: $42.52
+Running Time: 24 Days
 
-Estimated APR: 76%
-Last Updated: 2024/06/13
+Estimated APR: 64%
+Last Updated: 2024/06/17
 ```
 [最新績效](https://docs.google.com/spreadsheets/d/1-eOnb8Xh_RWWzwRVEhaiVXZTP-C3jyrj4s_SPub9SVc/edit?usp=sharing)
 
