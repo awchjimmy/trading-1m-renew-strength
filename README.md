@@ -36,6 +36,11 @@ Fixed 1% ≈ $10 per trade
 
 ### Roadmap
 * [x] 2024.05 - Project launched
-* [x] 2024.06 - Internal test on Bybit with personal account - Ongoing
+* [x] 2024.06 - Internal test on Bybit with personal account - Test failed
 * [ ] 2024.07 - Internal test on Bybit as a Master Trader
-* [ ] 2024.08 - Release to public on Bybit as a Master Trader 
+* [ ] 2024.08 - Release to public on Bybit as a Master Trader
+
+### 後續
+目前檢討原因中，尚無法分辨是因為策略不佳，還是因為市場因素改變導致成效不佳。
+如果是因為市場走下行，而造成成效不佳，變成要判斷現在是上行還是下行。
+這個策略沒辦法判斷上下行。
